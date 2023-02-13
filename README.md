@@ -1,2 +1,2 @@
 # MatenDb
-This my test environment for testing MatenDb
+This repository is dedicated to testing MartenDB, an open-source document database written in .NET. Here, you will find various tests, scripts, and tools that help evaluate the functionality and performance of MartenDB. The goal of this repository is to provide an open platform for users to contribute their own tests, share results, and collaborate on improving the quality of MartenDB. Whether you are an experienced user or a newcomer to MartenDB, you are welcome to participate and share your insights.
